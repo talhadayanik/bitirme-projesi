@@ -9,4 +9,5 @@ A Controller consists of these parts:
 - 1 Dual Battery Bed
 - 2 Battery
 - 1 Switch
-<img src="screenshots/ss2.jpeg" width=300>      <img src="screenshots/ss3.jpeg" width=300>
+  
+<img src="screenshots/ss2.jpeg" width=500>      <img src="screenshots/ss3.jpeg" width=500>
